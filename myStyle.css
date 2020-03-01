@@ -4,3 +4,12 @@
 #mainNav .navbar-brand{
     color: #006a4e;
 }
+
+
+
+#easterEgg
+{
+     position: fixed;
+     bottom: 0;
+     left: 0;
+}
